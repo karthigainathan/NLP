@@ -1,4 +1,4 @@
 # Basic-ChatBot using NLTK in Python
 
-# The Text data used here is taken form WHO.int
+The Text data used here is taken form WHO.int
 
